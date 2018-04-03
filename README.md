@@ -1,4 +1,4 @@
-# How to build apps for Google Assistant \n with no programming experience
+# How to build apps for Google Assistant with no programming experience
 <img src="https://cdn-images-1.medium.com/max/1600/1*b-C4a_VPFWHv6A4imIvN-w.jpeg">
 Recently, Google launched a developer program for Google Assistant. This program was launched with the incentive to engage users to Google Assistant. Google invited a ton of developers from all around the world to join their developer community to build some cool apps for Google Assistant.
 
