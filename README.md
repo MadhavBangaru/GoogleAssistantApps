@@ -47,47 +47,47 @@ And you are here and now all you have to do is to click on the “Bulk upload th
 
 Now, here you can do one thing which will make your life easier. Just click on the link which says “Make a copy of the pre-filled Google Sheet for editing.” It doesn’t mean that you are going to copy someone else’s idea, but Google has a defined format for the app templates they have provided us. So don’t think that you’re going to get into any plagiarism stuff. When you click on that link, you will get a Google sheet which is filled already and looks somewhat like this.
 
-https://cdn-images-1.medium.com/max/1600/1*1D5BDQpa9FKuqehCJdp1Wg.png
+<img src="https://cdn-images-1.medium.com/max/1600/1*1D5BDQpa9FKuqehCJdp1Wg.png>
 
 All you have to do is just edit this sheet in your own way, and when you are done just go to the previous tab and click “NEXT”.
 
-https://cdn-images-1.medium.com/max/1600/1*puq9woFLvYNDiHArw0NX7A.png
+<img src="https://cdn-images-1.medium.com/max/1600/1*puq9woFLvYNDiHArw0NX7A.png>
 
 Here you have to paste the link to the sheet that you edited previously and then click upload. Then it will start validating. If your content is validated then you will see something like this.
 
-https://cdn-images-1.medium.com/max/1600/1*ctlSmbIl7qkpXf4bCVh6ng.png
+<img src="https://cdn-images-1.medium.com/max/1600/1*ctlSmbIl7qkpXf4bCVh6ng.png>
 
 Click on the “Create App” and proceed and you will see this.
 
-https://cdn-images-1.medium.com/max/1600/1*t_dmbD9Lw1uEEyGVuqhQdg.png
+<img src="https://cdn-images-1.medium.com/max/1600/1*t_dmbD9Lw1uEEyGVuqhQdg.png>
 
 You can test your app by clicking on “Test App,” and when you are done testing your app come back and click on “DONE”.
 
 Then you will see something like this.
 
-https://cdn-images-1.medium.com/max/1600/1*2r3A1hdM1YCqfVcWSkF6tw.png
+<img src="https://cdn-images-1.medium.com/max/1600/1*2r3A1hdM1YCqfVcWSkF6tw.png>
 
 On the top left corner of the page, you’ll find “Overview” and then click on that to move further.
 
-https://cdn-images-1.medium.com/max/1600/1*Hw75jXJ3Tf-uMg8b6dVGkQ.png
+<img src="https://cdn-images-1.medium.com/max/1600/1*Hw75jXJ3Tf-uMg8b6dVGkQ.png>
 
 After you have clicked on the overview, you will reach the page you can see in the image above. Now you can edit the information for your app. You will reach a point while filling out the details for your app where you have to fill the link to your privacy policy.
 
-https://cdn-images-1.medium.com/max/1600/1*5frFkzyQjZ-vw6DDflXsdg.png
+<img src="https://cdn-images-1.medium.com/max/1600/1*5frFkzyQjZ-vw6DDflXsdg.png>
 
 At this point be careful — you don’t want to mess with the Privacy of your user since it is the most important issue. If at this moment you want help with your privacy policy, then click “LEARN MORE” in the blue bar.
 
-https://cdn-images-1.medium.com/max/1600/1*5DVEzpPkOO78fRTK4CPPhQ.png
+<img src="https://cdn-images-1.medium.com/max/1600/1*5DVEzpPkOO78fRTK4CPPhQ.png>
 
 When you click on it you will get a Google sheet, and all the information about the privacy policy will be given to you in that sheet. You have to carefully follow the steps given in that sheet.
 
 When you are done with all the details of your app, then click on the “Save” at the bottom right corner of your page.
 
-https://cdn-images-1.medium.com/max/1600/1*uHaal9aAmlVc7jvgD1D0kg.png
+<img src="https://cdn-images-1.medium.com/max/1600/1*uHaal9aAmlVc7jvgD1D0kg.png>
 
 Now go back and click on the “Test Draft” to test your app. When you are done with your final testing, then click on “Submit Draft for Review.”
 
-https://cdn-images-1.medium.com/max/1600/1*VccTG0v29jycZuE1UYYGCA.png
+<img src="https://cdn-images-1.medium.com/max/1600/1*VccTG0v29jycZuE1UYYGCA.png>
 
 And you are done. Whoa! You have created an application for Google Assistant. You are awesome!
 
