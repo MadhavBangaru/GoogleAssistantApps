@@ -7,3 +7,4 @@ There are two very cool things about this community program. First, you don’t 
 And second, if your app gets published, then Google will send you an exclusive Google Assistant t-shirt — and your account associated with that app will be credited with up to $200 of cloud services every month for the next year. And also you will get some more awards and perks when your app crosses certain milestones.
 
 So, let’s get started. First of all, go to the Google Assistant developer community program. Then you will land on this page.
+<img src="https://cdn-images-1.medium.com/max/1600/1*k_P3XHvyxtnIsuP9ZYW-sQ.png">
